@@ -6,7 +6,7 @@ As a teaching assistant for AP Physics C: E&amp;M during my senior year, I decid
 The attached code is a simulation of the system explored in the second worksheet. The first block of code compares non-relatavistic motion to simple harmonic motion, the second block of code compares non-relativistic motion to relativistic motion, the third block of code displays only non-relativistic motion, and the last block of code displays only relativistic motion. Each block outputs animations of the particle's motion as a function of time, the particle's motion in cartesian coordinates, the potential energy as a function of the particle's position, and a phase diagram of the system. Additionally, the last block of code displays the ratio between the proper time of the moving particle and the coordinate time of the stationary observer as a function of coordinate time. Below is a clip of the output of block 4. Currently, the charged particle is set to be an electron. 
 
 
-<img width="800" height="677" alt="relativistic_motion" src="https://github.com/user-attachments/assets/3afbc579-a0cb-4d83-b0bc-4669b22fb03e" />
+<img width="800" height="677" alt="relativistic_motion" src="https://github.com/user-attachments/assets/da9804e0-560e-428d-88a9-1084cb78641d" />
 
 
 To run this notebook on your own machine, you will need Python installed along with Jupyter and a few scientific libraries.
